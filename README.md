@@ -15,7 +15,7 @@ Member | R | innocent-law | [Anatoliy#9670](https://discord.com/users/8830177266
 Member | Alex | bewildered-picture | [thealex11x#4706](https://discord.com/users/824364194580529172) | soon
 Member | My event Horizon | combative-boy | [ElectricWizard#9657](https://discord.com/users/194132632496373760) | [My event Horizon](http://142.132.151.169:3000/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=5s)
 Member | Zhenya | courageous-tea | [Johniq#8079](https://discord.com/users/304260322699640833) | [Zhenya](http://144.91.69.106:3000/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=10s)
-Member | Dmitrii | black-pen | [Fuckermaker ClayClan#2082](https://discord.com/users/867052848735191070) | soon
+Member | Dmitrii | black-pen | [Fuckermaker ClayClan#2082](https://discord.com/users/867052848735191070) | [Dmitrii](http://144.76.118.94:3000/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=10s)
 Member | Maks | wise-rate | [Maksimoos#0207](https://discord.com/users/598959147794563081) | soon
 
 Node update
