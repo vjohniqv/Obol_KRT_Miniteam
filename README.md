@@ -1,5 +1,5 @@
 # Obol_KRT_Miniteam
-Obol_KRT_Miniteam --> 201/200 😆😆😆
+Obol_KRT_Miniteam --> 201/200 😆😆😆 - our team notes.
 
 Obol Athena Testnet
 -------------------
