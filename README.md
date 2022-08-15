@@ -12,11 +12,11 @@ KRT_Miniteam
 Captain | Merlin | wild-soup | [Mutant#6520](https://discord.com/users/877965122595868722) | [Merlin](http://188.34.164.186:3000/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=10s)
 Member | Leypx | bountiful-death | [LEYPX#7886](https://discord.com/users/401855964745302046) | [Leypx](http://135.181.92.161:3000/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=10s)
 Member | R | innocent-law | [Anatoliy#9670](https://discord.com/users/883017726661120001) | [R](http://65.109.28.243:3000/d/singlenode/single-charon-node-dashboard?orgId=1&from=now-30m&to=now&refresh=10s)
-Member | Alex | bewildered-picture | [thealex11x#4706](https://discord.com/users/824364194580529172) | soon
+Member | Alex | bewildered-picture | [thealex11x#4706](https://discord.com/users/824364194580529172) | [Alex](http://94.158.152.162:3000/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=10s)
 Member | My event Horizon | combative-boy | [ElectricWizard#9657](https://discord.com/users/194132632496373760) | [My event Horizon](http://142.132.151.169:3000/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=5s)
 Member | Zhenya | courageous-tea | [Johniq#8079](https://discord.com/users/304260322699640833) | [Zhenya](http://144.91.69.106:3000/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=10s)
 Member | Dmitrii | black-pen | [Fuckermaker ClayClan#2082](https://discord.com/users/867052848735191070) | [Dmitrii](http://144.76.118.94:3000/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=10s)
-Member | Maks | wise-rate | [Maksimoos#0207](https://discord.com/users/598959147794563081) | soon
+Member | Maks | wise-rate | [Maksimoos#0207](https://discord.com/users/598959147794563081) | [Maks](http://142.132.149.221:3000/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=10s)
 
 Node update
 -----------
