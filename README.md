@@ -56,6 +56,10 @@ Start
 ```
 cd ~/charon-distributed-validator-node/ && docker-compose up -d
 ```
+Put the same region
+```
+sudo timedatectl set-timezone Europe/Kiev
+```
 
 Our bootnode
 ------------
