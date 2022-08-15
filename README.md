@@ -18,6 +18,18 @@ Member | Zhenya | courageous-tea | [Johniq#8079](https://discord.com/users/30426
 Member | Dmitrii | black-pen | [Fuckermaker ClayClan#2082](https://discord.com/users/867052848735191070) | soon
 Member | Maks | wise-rate | [Maksimoos#0207](https://discord.com/users/598959147794563081) | soon
 
+Node update
+-----------
+To update to the latest version use this command:
+```
+cd ~/charon-distributed-validator-node/ && docker-compose down && git pull && docker-compose up -d
+```
+If something went wrong and an error occurred, try resetting the version and downloading it again:
+```
+cd ~/charon-distributed-validator-node/ && docker-compose down && git reset --hard HEAD && git pull && docker-compose up -d
+```
+That`s all.
+
 Usefull Commands
 ----------------
 Check all logs
