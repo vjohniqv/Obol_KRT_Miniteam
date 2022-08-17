@@ -9,7 +9,7 @@ KRT_Miniteam
 ------------
 `Role` | `Name` | `Nickname` | `Discord` | `Grafana`
 --- | --- | --- | --- | ---
-Captain | Merlin | wild-soup | [Mutant#6520](https://discord.com/users/877965122595868722) | [Merlin](http://178.150.62.251:3000/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=10s)
+Captain | Merlin | wild-soup | [Mutant#6520](https://discord.com/users/877965122595868722) | [Merlin](http://23.88.39.11:3000/d/singlenode/single-charon-node-dashboard?orgId=1&from=now-5m&to=now&refresh=10s)
 Member | Leypx | bountiful-death | [LEYPX#7886](https://discord.com/users/401855964745302046) | [Leypx](http://135.181.92.161:3000/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=10s)
 Member | R | innocent-law | [Anatoliy#9670](https://discord.com/users/883017726661120001) | [R](http://65.109.28.243:3000/d/singlenode/single-charon-node-dashboard?orgId=1&from=now-30m&to=now&refresh=10s)
 Member | Alex | bewildered-picture | [thealex11x#4706](https://discord.com/users/824364194580529172) | [Alex](http://94.158.152.162:3000/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=10s)
