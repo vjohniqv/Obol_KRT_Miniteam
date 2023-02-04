@@ -41,6 +41,10 @@ Check attestation logs
 ```
 cd ~/charon-distributed-validator-node && docker logs charon-distributed-validator-node-charon-1 --tail=100 -f
 ```
+Check sync progress
+```
+cd ~/charon-distributed-validator-node && docker-compose logs --tail=100 -f |grep progress
+```
 Check current epoch
 ```
 cd ~/charon-distributed-validator-node && docker-compose logs --tail=100 -f | grep 'epoch: '
