@@ -11,7 +11,7 @@ KRT_Miniteam
 --- | --- | --- | --- | ---
 Captain | R | tough-ship | [ElectricWizard#9657](https://discord.com/users/194132632496373760) | [R](http://65.109.28.243:3000/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=10s)
 Member | Merlin | adorable-soup | [Mutant#6520](https://discord.com/users/877965122595868722) | [Merlin](http://178.150.62.251:3000/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=10s)
-Member | Leypx | mindful-fridge | [LEYPX#7886](https://discord.com/users/401855964745302046) | [Leypx](tbd)
+Member | Leypx | mindful-fridge | [LEYPX#7886](https://discord.com/users/401855964745302046) | [Leypx](http://65.21.6.72:3000/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=10s)
 Member | Alex | reliable rock | [thealex11x#4706](https://discord.com/users/824364194580529172) | [Alex](http://94.158.152.162:3000/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=10s)
 Member | My event Horizon | clever-morning | [Anatoliy#9670](https://discord.com/users/883017726661120001) | [My event Horizon](http://65.109.112.11:3000/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=10s)
 Member | Zhenya | wondrous-bulb | [Johniq#8079](https://discord.com/users/304260322699640833) | [Zhenya](http://95.217.144.113:3333/d/singlenode/single-charon-node-dashboard?orgId=1&refresh=10s)
